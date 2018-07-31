@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Appathon</string>
+    <string name="string1">  Welcome to \n Gardens of Galaxy</string>
+    <string name="string2"> Swipe Right to begin your journey >>></string>
+    <string name="search_by_name">Search by Name</string>
+    <string name="search_by_rack_number">Search by Rack Number</string>
+    <string name="scan_using_qr_code">Scan using QR code</string>
+    <string name="monitor_the_plant">Monitor the plant</string>
+    <string name="title_activity_plant_list">PlantList</string>
+    <string name="title_activity_rack_search">RackSearch</string>
+    <string name="title_activity_qrcode">QRCode</string>
+    <string name="title_activity_monitor_plant">MonitorPlant</string>
+</resources>
